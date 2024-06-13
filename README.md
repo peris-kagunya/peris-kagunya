@@ -1,4 +1,4 @@
-# Peris Kagunya
+## About Me
 I am a junior data scientist passionate about leveraging Python and machine learning models to derive insights from data. With a keen interest in exploring new methodologies and technologies, I constantly strive to enhance my skills and stay updated with the latest trends in data science.
 
 ## Skills
